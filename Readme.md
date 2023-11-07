@@ -27,4 +27,4 @@
 13. git push
 
 Detailed description:
-https://realpython.com/python-continuous-integration/
+https://realpython.com/python-continuous-integration/# calculator_ci
